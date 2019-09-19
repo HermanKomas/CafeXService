@@ -1,0 +1,9 @@
+[0m[[0m[0minfo[0m] [0m[0mServiceChargeSpec[0m
+[0m[[0m[0minfo[0m] [0m[0mService Charge should[0m
+[0m[[0m[0minfo[0m] [0m[0m  [32m+[0m give zero when order only drinks[0m
+[0m[[0m[0minfo[0m] [0m[0m  [32m+[0m give 10 percent when any food[0m
+[0m[[0m[0minfo[0m] [0m[0m  [32m+[0m give 20 perecent when any hot food[0m
+[0m[[0m[0minfo[0m] [0m[0m  [32m+[0m give max amount of £20[0m
+[0m[[0m[0minfo[0m] [0m[0mTotal for specification ServiceChargeSpec[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mFinished in 189 ms[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36m[0m[36m4 examples, 0 failure, 0 error[0m[0m
